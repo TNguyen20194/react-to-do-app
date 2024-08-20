@@ -1,5 +1,6 @@
 {
   "name": "to-do-app",
+  "homepage": "https://TNguyen20194.github.io/react-to-do-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
